@@ -78,3 +78,4 @@ function cityAndCountry(arr){
     }
     return ;
 }
+export{giveEmail,findWithAge,studentsOfAustralia,at3,ageOfAll,firstHobby,findWithAge25,cityAndCountry};
